@@ -4,7 +4,7 @@ from models import User, Feedback
 
 app = FastAPI()
 
-user_instance = User(name="Никитос Тришин Дмитриевич52", id=1)
+user_instance = User(name="КимА", id=1)
 
 feedbacks = []
 
